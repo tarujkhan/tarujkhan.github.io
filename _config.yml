@@ -1,0 +1,20 @@
+# Site settings
+author: taroj khan
+title: 
+header-img: img/home-bg.png
+email: tarujkhan@yahoo.com
+copyright_name: taroj khan
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  tarujkhan
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
