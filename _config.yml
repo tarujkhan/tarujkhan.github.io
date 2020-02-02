@@ -1,11 +1,11 @@
 # Site settings
-author: taroj khan
-title: 
+author: Taroj Khan
+title: Why I chose Software Engineering
 header-img: img/home-bg.png
 email: tarujkhan@yahoo.com
-copyright_name: taroj khan
+copyright_name: Taroj Khan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My interest
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tarujkhan
