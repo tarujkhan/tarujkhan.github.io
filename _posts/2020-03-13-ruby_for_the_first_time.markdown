@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby for the first time"
-date:       2020-03-13 21:29:08 +0000
+date:       2020-03-13 17:29:09 -0400
 permalink:  ruby_for_the_first_time
 ---
 
